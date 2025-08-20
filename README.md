@@ -10,3 +10,6 @@ CREATE TABLE ocr_results (
     extracted_text TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+
+see: https://chatgpt.com/c/68a57d39-99d4-832b-8db9-2741518f087b
